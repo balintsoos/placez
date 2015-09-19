@@ -19,10 +19,6 @@ module.exports = function(grunt) {
 				src: ['src/js/main.js'],
 				dest: 'build/js/app.js',
 			},
-			css: {
-				src: ['src/css/reset.css', 'build/css/style.css'],
-				dest: 'build/css/style.css',
-			},
 		},
 		
 		copy: {
