@@ -59,7 +59,6 @@ $header-nav-item-active: #27ae60;
 *--------------------------------------------------------------*/
 
 html, body {
-	height: 100%;
 	background-color: $main-bg;
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	-webkit-tap-highlight-color: transparent;
@@ -67,7 +66,7 @@ html, body {
 }
 
 body {
-	padding-top: 50px;
+	padding-top: 70px;
 }
 
 .no-select {
